@@ -10,7 +10,7 @@ Run the following in your R session to get the notes and materials for the works
 install.packages('usethis')
 
 usethis::use_course(
-  'https://github.com/m-clark/R-III-Programming/blob/master/workshop_modeling.zip?raw=true', 
+  'https://github.com/m-clark/R-III-Modeling/blob/master/workshop_modeling.zip?raw=true', 
   destdir = NULL
 )
 ```
